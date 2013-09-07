@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IBODB Predictor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="type_release">Type Release</string>
+ 
+    <string-array name="release_array">
+        <item>Normal Friday Release</item>
+        <item>Major Holiday Release</item>
+        <item>Minor Holiday Release</item>
+    </string-array>
+    
+    <string name="expected_response">Expected Response</string>
+ 
+    <string-array name="response_array">
+        <item>Positive</item>
+        <item>Mixed</item>
+        <item>Negative</item>
+    </string-array>
+    
+    <string name="target_audience">Target Audience</string>
+ 
+    <string-array name="audience_array">
+        <item>Multiplex</item>
+        <item>Both(Single Screen and Multiplex)</item>
+    </string-array>
+</resources>
